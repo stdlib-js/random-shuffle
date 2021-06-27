@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-shuffle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shuffle elements of an array-like object.",
   "license": "Apache-2.0",
   "author": {
