@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/random-shuffle",
+  "version": "0.0.0",
+  "description": "Shuffle elements of an array-like object.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-shuffle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "random",
+    "rand",
+    "mathematics",
+    "math",
+    "combinatorics",
+    "fisher",
+    "yates",
+    "knuth",
+    "shuffle",
+    "permutation",
+    "perm",
+    "randperm",
+    "array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
