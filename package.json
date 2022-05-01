@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-shuffle",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Shuffle elements of an array-like object.",
   "license": "Apache-2.0",
   "author": {
@@ -47,7 +47,8 @@
     "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
+    "@stdlib/utils-index-of": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/array-int32": "^0.0.x",
