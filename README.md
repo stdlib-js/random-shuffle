@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@esm/index.mjs';
+import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-esm/index.mjs';
 ```
 
 #### shuffle( arr\[, options] )
@@ -174,7 +174,7 @@ bool = ( arr === out );
 <body>
 <script type="module">
 
-import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@esm/index.mjs';
+import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-esm/index.mjs';
 
 var result;
 var data;
