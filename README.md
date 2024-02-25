@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@deno/mod.js';
+import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-deno/mod.js';
 ```
 
 #### shuffle( arr\[, options] )
@@ -169,7 +169,7 @@ bool = ( arr === out );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@deno/mod.js';
+import shuffle from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-shuffle@v0.2.1-deno/mod.js';
 
 var result;
 var data;
