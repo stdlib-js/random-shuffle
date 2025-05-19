@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-19)
+## Unreleased (2025-05-19)
 
 <section class="bug-fixes">
 
@@ -34,7 +34,7 @@ This release closes the following issue:
 
 <details>
 
--   [`93560b9`](https://github.com/stdlib-js/stdlib/commit/93560b988c750b47e68cf5a789cc5e9d74b8e2d8) - **fix:** ensure correct seed validation [(#3007)](https://github.com/stdlib-js/stdlib/pull/3007) _(by RISHAV)_
+-   [`93560b9`](https://github.com/stdlib-js/stdlib/commit/93560b988c750b47e68cf5a789cc5e9d74b8e2d8) - **fix:** ensure correct seed validation [(#3007)](https://github.com/stdlib-js/stdlib/pull/3007) _(by Rishav)_
 
 </details>
 
@@ -48,7 +48,7 @@ This release closes the following issue:
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   RISHAV
+-   Rishav
 
 </section>
 
